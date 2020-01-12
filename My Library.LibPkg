@@ -52,6 +52,9 @@ ClassGenCCAutoEnabled=1
 ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 
+[GeneratedDocument1]
+DocumentPath=D:\Aysi\study\Lichee Nano\F1C100S_keil\开发板-AD-原理图&PCB封装库\F1C100S开发板.PcbLib.htm
+
 [OutputGroup1]
 Name=Netlist Outputs
 Description=
